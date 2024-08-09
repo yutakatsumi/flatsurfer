@@ -1,2 +1,2 @@
 # flatsurfer
-A Python package for projecting brain surface data onto circular flat maps.
+A Python package for projecting brain surface data onto **Limbic-centered Surface Azimuthal (LiSA)** maps.
